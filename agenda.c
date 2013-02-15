@@ -105,6 +105,7 @@ main()
         if(choixIni==49) creationAgenda();
         else if(choixIni==50) ouvertureAgenda(); if(!pf1) printf("ouverture imposs");
     }while(choixIni!=51);
+    //TEST//
 
 
 
